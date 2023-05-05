@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddea7889.css",
+    "main.js": "/static/js/main.1b223201.js",
+    "static/media/JordanLogo.png": "/static/media/JordanLogo.acd79efa917a62b0d535.png",
+    "static/media/MomsAllThat.webp": "/static/media/MomsAllThat.fc314c35eeb0ef2f161d.webp",
+    "static/media/ConverseLogo.png": "/static/media/ConverseLogo.fe4eded171db98616833.png",
+    "static/media/NewAirMax.webp": "/static/media/NewAirMax.3f766a47265d53384d60.webp",
+    "static/media/FitnessGearForAllYouDo.png": "/static/media/FitnessGearForAllYouDo.1d48d6497f37d0eb8490.png",
+    "static/media/model1.webp": "/static/media/model1.662edd000b4afc2a4a4b.webp",
+    "static/media/NikeAirMaxPulse.png": "/static/media/NikeAirMaxPulse.e011b08ed1fcb7a4988e.png",
+    "static/media/GiftsForHer.png": "/static/media/GiftsForHer.c6db449c80f7ac2dec3d.png",
+    "static/media/metcon.webp": "/static/media/metcon.61066aed8baf9c168f47.webp",
+    "static/media/airmax.webp": "/static/media/airmax.f1f5fc34c6b1fdb2517a.webp",
+    "static/media/pegasus.webp": "/static/media/pegasus.15cdee453f9400a04ac6.webp",
+    "static/media/airjordan1.webp": "/static/media/airjordan1.1f7916b5470d5ab30e9d.webp",
+    "static/media/airforce1.webp": "/static/media/airforce1.d57339333fae9c619a2d.webp",
+    "static/media/blazer.webp": "/static/media/blazer.2fe6e4e17dde212a26de.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Heart.svg": "/static/media/Heart.5725fa5fbd9d892202719141e16ee09f.svg",
+    "index.html": "/index.html",
+    "main.ddea7889.css.map": "/static/css/main.ddea7889.css.map",
+    "main.1b223201.js.map": "/static/js/main.1b223201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddea7889.css",
+    "static/js/main.1b223201.js"
+  ]
+}
